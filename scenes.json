@@ -5,7 +5,11 @@
     "description": "Прекрасные звуки природы для сна и расслабления.",
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1
+    "sizeMB": 92.1,
+    "name_color": "#7B001C",
+    "description_color": "#900020",
+    "sizeMB_color": "#900020",
+    "progressbar_color": "#900020"
   },
   {
     "id": "forest2",
@@ -13,7 +17,11 @@
     "description": "Прекрасные звуки природы для сна и расслабления.",
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1
+    "sizeMB": 92.1,
+    "name_color": "#a5d6a7",
+    "description_color": "#81c784",
+    "sizeMB_color": "#a5d6a7",
+    "progressbar_color": "#4caf50"
   },
   {
     "id": "forest3",
@@ -21,7 +29,11 @@
     "description": "Прекрасные звуки природы для сна и расслабления.",
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1
+    "sizeMB": 92.1,
+    "name_color": "#a5d6a7",
+    "description_color": "#81c784",
+    "sizeMB_color": "#a5d6a7",
+    "progressbar_color": "#4caf50"
   },
   {
     "id": "forest4",
@@ -29,7 +41,11 @@
     "description": "Прекрасные звуки природы для сна и расслабления.",
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1
+    "sizeMB": 92.1,
+    "name_color": "#a5d6a7",
+    "description_color": "#81c784",
+    "sizeMB_color": "#a5d6a7",
+    "progressbar_color": "#4caf50"
   },
   {
     "id": "forest5",
@@ -37,7 +53,11 @@
     "description": "Прекрасные звуки природы для сна и расслабления.",
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1
+    "sizeMB": 92.1,
+    "name_color": "#a5d6a7",
+    "description_color": "#81c784",
+    "sizeMB_color": "#a5d6a7",
+    "progressbar_color": "#4caf50"
   },
   {
     "id": "forest6",
@@ -45,7 +65,11 @@
     "description": "Прекрасные звуки природы для сна и расслабления.",
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1
+    "sizeMB": 92.1,
+    "name_color": "#a5d6a7",
+    "description_color": "#81c784",
+    "sizeMB_color": "#a5d6a7",
+    "progressbar_color": "#4caf50"
   },
   {
     "id": "forest7",
@@ -53,7 +77,11 @@
     "description": "Прекрасные звуки природы для сна и расслабления.",
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1
+    "sizeMB": 92.1,
+    "name_color": "#a5d6a7",
+    "description_color": "#81c784",
+    "sizeMB_color": "#a5d6a7",
+    "progressbar_color": "#4caf50"
   },
   {
     "id": "forest8",
@@ -61,7 +89,11 @@
     "description": "Прекрасные звуки природы для сна и расслабления.",
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1
+    "sizeMB": 92.1,
+    "name_color": "#a5d6a7",
+    "description_color": "#81c784",
+    "sizeMB_color": "#a5d6a7",
+    "progressbar_color": "#4caf50"
   },
   {
     "id": "forest9",
@@ -69,7 +101,11 @@
     "description": "Прекрасные звуки природы для сна и расслабления.",
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1
+    "sizeMB": 92.1,
+    "name_color": "#a5d6a7",
+    "description_color": "#81c784",
+    "sizeMB_color": "#a5d6a7",
+    "progressbar_color": "#4caf50"
   },
   {
     "id": "forest10",
@@ -77,7 +113,11 @@
     "description": "Прекрасные звуки природы для сна и расслабления.",
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1
+    "sizeMB": 92.1,
+    "name_color": "#a5d6a7",
+    "description_color": "#81c784",
+    "sizeMB_color": "#a5d6a7",
+    "progressbar_color": "#4caf50"
   },
   {
     "id": "forest11",
@@ -85,7 +125,11 @@
     "description": "Прекрасные звуки природы для сна и расслабления.",
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1
+    "sizeMB": 92.1,
+    "name_color": "#a5d6a7",
+    "description_color": "#81c784",
+    "sizeMB_color": "#a5d6a7",
+    "progressbar_color": "#4caf50"
   },
   {
     "id": "forest12",
@@ -93,7 +137,11 @@
     "description": "Прекрасные звуки природы для сна и расслабления.",
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1
+    "sizeMB": 92.1,
+    "name_color": "#a5d6a7",
+    "description_color": "#81c784",
+    "sizeMB_color": "#a5d6a7",
+    "progressbar_color": "#4caf50"
   },
   {
     "id": "forest13",
@@ -101,7 +149,11 @@
     "description": "Прекрасные звуки природы для сна и расслабления.",
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1
+    "sizeMB": 92.1,
+    "name_color": "#a5d6a7",
+    "description_color": "#81c784",
+    "sizeMB_color": "#a5d6a7",
+    "progressbar_color": "#4caf50"
   },
   {
     "id": "forest14",
@@ -109,6 +161,10 @@
     "description": "Прекрасные звуки природы для сна и расслабления.",
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1
+    "sizeMB": 92.1,
+    "name_color": "#a5d6a7",
+    "description_color": "#81c784",
+    "sizeMB_color": "#a5d6a7",
+    "progressbar_color": "#4caf50"
   }
 ]
