@@ -1,8 +1,14 @@
 [
   {
-    "id": "forest1",
-    "name": "Лес",
-    "description": "Прекрасные звуки природы для сна и расслабления.",
+  "id": "forest1",
+  "name": {
+    "uk": "Ліс",
+    "en": "Forest"
+  },
+  "description": {
+    "uk": "Прекрасні звуки природи для сну та розслаблення.",
+    "en": "Beautiful nature sounds for sleeping and relaxing."
+  },
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
     "sizeMB": 92.1,
@@ -13,8 +19,14 @@
   },
   {
     "id": "forest2",
-    "name": "Лес",
-    "description": "Прекрасные звуки природы для сна и расслабления.",
+    "name": {
+    "uk": "Ліс",
+    "en": "Forest"
+  },
+  "description": {
+    "uk": "Прекрасні звуки природи для сну та розслаблення.",
+    "en": "Beautiful nature sounds for sleeping and relaxing."
+  },
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
     "sizeMB": 92.1,
@@ -25,8 +37,14 @@
   },
   {
     "id": "forest3",
-    "name": "Лес",
-    "description": "Прекрасные звуки природы для сна и расслабления.",
+    "name": {
+    "uk": "Ліс",
+    "en": "Forest"
+  },
+  "description": {
+    "uk": "Прекрасні звуки природи для сну та розслаблення.",
+    "en": "Beautiful nature sounds for sleeping and relaxing."
+  },
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
     "sizeMB": 92.1,
@@ -37,8 +55,14 @@
   },
   {
     "id": "forest4",
-    "name": "Лес",
-    "description": "Прекрасные звуки природы для сна и расслабления.",
+    "name": {
+    "uk": "Ліс",
+    "en": "Forest"
+  },
+  "description": {
+    "uk": "Прекрасні звуки природи для сну та розслаблення.",
+    "en": "Beautiful nature sounds for sleeping and relaxing."
+  },
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
     "sizeMB": 92.1,
@@ -49,8 +73,14 @@
   },
   {
     "id": "forest5",
-    "name": "Лес",
-    "description": "Прекрасные звуки природы для сна и расслабления.",
+    "name": {
+    "uk": "Ліс",
+    "en": "Forest"
+  },
+  "description": {
+    "uk": "Прекрасні звуки природи для сну та розслаблення.",
+    "en": "Beautiful nature sounds for sleeping and relaxing."
+  },
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
     "sizeMB": 92.1,
@@ -61,8 +91,14 @@
   },
   {
     "id": "forest6",
-    "name": "Лес",
-    "description": "Прекрасные звуки природы для сна и расслабления.",
+    "name": {
+    "uk": "Ліс",
+    "en": "Forest"
+  },
+  "description": {
+    "uk": "Прекрасні звуки природи для сну та розслаблення.",
+    "en": "Beautiful nature sounds for sleeping and relaxing."
+  },
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
     "sizeMB": 92.1,
@@ -73,8 +109,14 @@
   },
   {
     "id": "forest7",
-    "name": "Лес",
-    "description": "Прекрасные звуки природы для сна и расслабления.",
+    "name": {
+    "uk": "Ліс",
+    "en": "Forest"
+  },
+  "description": {
+    "uk": "Прекрасні звуки природи для сну та розслаблення.",
+    "en": "Beautiful nature sounds for sleeping and relaxing."
+  },
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
     "sizeMB": 92.1,
@@ -85,8 +127,14 @@
   },
   {
     "id": "forest8",
-    "name": "Лес",
-    "description": "Прекрасные звуки природы для сна и расслабления.",
+    "name": {
+    "uk": "Ліс",
+    "en": "Forest"
+  },
+  "description": {
+    "uk": "Прекрасні звуки природи для сну та розслаблення.",
+    "en": "Beautiful nature sounds for sleeping and relaxing."
+  },
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
     "sizeMB": 92.1,
@@ -97,8 +145,14 @@
   },
   {
     "id": "forest9",
-    "name": "Лес",
-    "description": "Прекрасные звуки природы для сна и расслабления.",
+    "name": {
+    "uk": "Ліс",
+    "en": "Forest"
+  },
+  "description": {
+    "uk": "Прекрасні звуки природи для сну та розслаблення.",
+    "en": "Beautiful nature sounds for sleeping and relaxing."
+  },
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
     "sizeMB": 92.1,
@@ -109,8 +163,14 @@
   },
   {
     "id": "forest10",
-    "name": "Лес",
-    "description": "Прекрасные звуки природы для сна и расслабления.",
+    "name": {
+    "uk": "Ліс",
+    "en": "Forest"
+  },
+  "description": {
+    "uk": "Прекрасні звуки природи для сну та розслаблення.",
+    "en": "Beautiful nature sounds for sleeping and relaxing."
+  },
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
     "sizeMB": 92.1,
@@ -121,8 +181,14 @@
   },
   {
     "id": "forest11",
-    "name": "Лес",
-    "description": "Прекрасные звуки природы для сна и расслабления.",
+    "name": {
+    "uk": "Ліс",
+    "en": "Forest"
+  },
+  "description": {
+    "uk": "Прекрасні звуки природи для сну та розслаблення.",
+    "en": "Beautiful nature sounds for sleeping and relaxing."
+  },
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
     "sizeMB": 92.1,
@@ -133,8 +199,14 @@
   },
   {
     "id": "forest12",
-    "name": "Лес",
-    "description": "Прекрасные звуки природы для сна и расслабления.",
+    "name": {
+    "uk": "Ліс",
+    "en": "Forest"
+  },
+  "description": {
+    "uk": "Прекрасні звуки природи для сну та розслаблення.",
+    "en": "Beautiful nature sounds for sleeping and relaxing."
+  },
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
     "sizeMB": 92.1,
@@ -145,8 +217,14 @@
   },
   {
     "id": "forest13",
-    "name": "Лес",
-    "description": "Прекрасные звуки природы для сна и расслабления.",
+    "name": {
+    "uk": "Ліс",
+    "en": "Forest"
+  },
+  "description": {
+    "uk": "Прекрасні звуки природи для сну та розслаблення.",
+    "en": "Beautiful nature sounds for sleeping and relaxing."
+  },
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
     "sizeMB": 92.1,
@@ -157,8 +235,14 @@
   },
   {
     "id": "forest14",
-    "name": "Лес",
-    "description": "Прекрасные звуки природы для сна и расслабления.",
+    "name": {
+    "uk": "Ліс",
+    "en": "Forest"
+  },
+  "description": {
+    "uk": "Прекрасні звуки природи для сну та розслаблення.",
+    "en": "Beautiful nature sounds for sleeping and relaxing."
+  },
     "image": "images/forest.jpg",
     "file": "audio/forest_birds.mp3",
     "sizeMB": 92.1,
