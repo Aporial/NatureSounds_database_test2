@@ -1,254 +1,74 @@
 [
   {
-  "id": "forest1",
-  "name": {
-    "uk": "Ліс",
-    "en": "Forest"
-  },
-  "description": {
-    "uk": "Прекрасні звуки природи для сну та розслаблення.",
-    "en": "Beautiful nature sounds for sleeping and relaxing."
-  },
-    "image": "images/forest.jpg",
+    "id": "forest",
+    "name": {
+      "uk": "Шепіт лісу",
+      "en": "Whispering Forest"
+    },
+    "description": {
+      "uk": "Спокійні звуки дерев, птахів та вітру серед густого лісу.",
+      "en": "Peaceful sounds of trees, birds, and wind in a dense forest."
+    },
+    "image": "images/forest.png",
     "file": "audio/forest_birds.mp3",
     "sizeMB": 92.1,
-    "name_color": "#7B001C",
-    "description_color": "#900020",
-    "sizeMB_color": "#900020",
-    "progressbar_color": "#900020"
+    "name_color": "#c8c46d",
+    "description_color": "#c8c46d",
+    "sizeMB_color": "#c8c46d",
+    "progressbar_color": "#5b6439"
   },
   {
-    "id": "forest2",
+    "id": "campfire",
     "name": {
-    "uk": "Ліс",
-    "en": "Forest"
-  },
-  "description": {
-    "uk": "Прекрасні звуки природи для сну та розслаблення.",
-    "en": "Beautiful nature sounds for sleeping and relaxing."
-  },
-    "image": "images/forest.jpg",
+      "uk": "Нічне багаття",
+      "en": "Night Campfire"
+    },
+    "description": {
+      "uk": "Тріск вогню й затишне потріскування дров у нічній тиші.",
+      "en": "Crackling firewood and cozy flames in the quiet night."
+    },
+    "image": "images/campfire.png",
     "file": "audio/forest_birds.mp3",
     "sizeMB": 92.1,
-    "name_color": "#a5d6a7",
-    "description_color": "#81c784",
-    "sizeMB_color": "#a5d6a7",
-    "progressbar_color": "#4caf50"
+    "name_color": "#f8d89b",
+    "description_color": "#f8d89b",
+    "sizeMB_color": "#f8d89b",
+    "progressbar_color": "#e15a46"
   },
   {
-    "id": "forest3",
+    "id": "ocean",
     "name": {
-    "uk": "Ліс",
-    "en": "Forest"
-  },
-  "description": {
-    "uk": "Прекрасні звуки природи для сну та розслаблення.",
-    "en": "Beautiful nature sounds for sleeping and relaxing."
-  },
-    "image": "images/forest.jpg",
+      "uk": "Хвилі океану",
+      "en": "Ocean Waves"
+    },
+    "description": {
+      "uk": "Мірне прибоювання хвиль, що змиває тривоги.",
+      "en": "Rhythmic waves washing away worries."
+    },
+    "image": "images/ocean.png",
     "file": "audio/forest_birds.mp3",
     "sizeMB": 92.1,
-    "name_color": "#a5d6a7",
-    "description_color": "#81c784",
-    "sizeMB_color": "#a5d6a7",
-    "progressbar_color": "#4caf50"
+    "name_color": "#c2dccf",
+    "description_color": "#c2dccf",
+    "sizeMB_color": "#c2dccf",
+    "progressbar_color": "#498ba1"
   },
   {
-    "id": "forest4",
+    "id": "rain",
     "name": {
-    "uk": "Ліс",
-    "en": "Forest"
-  },
-  "description": {
-    "uk": "Прекрасні звуки природи для сну та розслаблення.",
-    "en": "Beautiful nature sounds for sleeping and relaxing."
-  },
-    "image": "images/forest.jpg",
+      "uk": "Затишний дощ",
+      "en": "Cozy Rain"
+    },
+    "description": {
+      "uk": "Легкий дощ за вікном створює атмосферу спокою та тепла.",
+      "en": "Gentle rain outside the window brings a sense of calm and warmth."
+    },
+    "image": "images/rain.png",
     "file": "audio/forest_birds.mp3",
     "sizeMB": 92.1,
-    "name_color": "#a5d6a7",
-    "description_color": "#81c784",
-    "sizeMB_color": "#a5d6a7",
-    "progressbar_color": "#4caf50"
-  },
-  {
-    "id": "forest5",
-    "name": {
-    "uk": "Ліс",
-    "en": "Forest"
-  },
-  "description": {
-    "uk": "Прекрасні звуки природи для сну та розслаблення.",
-    "en": "Beautiful nature sounds for sleeping and relaxing."
-  },
-    "image": "images/forest.jpg",
-    "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1,
-    "name_color": "#a5d6a7",
-    "description_color": "#81c784",
-    "sizeMB_color": "#a5d6a7",
-    "progressbar_color": "#4caf50"
-  },
-  {
-    "id": "forest6",
-    "name": {
-    "uk": "Ліс",
-    "en": "Forest"
-  },
-  "description": {
-    "uk": "Прекрасні звуки природи для сну та розслаблення.",
-    "en": "Beautiful nature sounds for sleeping and relaxing."
-  },
-    "image": "images/forest.jpg",
-    "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1,
-    "name_color": "#a5d6a7",
-    "description_color": "#81c784",
-    "sizeMB_color": "#a5d6a7",
-    "progressbar_color": "#4caf50"
-  },
-  {
-    "id": "forest7",
-    "name": {
-    "uk": "Ліс",
-    "en": "Forest"
-  },
-  "description": {
-    "uk": "Прекрасні звуки природи для сну та розслаблення.",
-    "en": "Beautiful nature sounds for sleeping and relaxing."
-  },
-    "image": "images/forest.jpg",
-    "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1,
-    "name_color": "#a5d6a7",
-    "description_color": "#81c784",
-    "sizeMB_color": "#a5d6a7",
-    "progressbar_color": "#4caf50"
-  },
-  {
-    "id": "forest8",
-    "name": {
-    "uk": "Ліс",
-    "en": "Forest"
-  },
-  "description": {
-    "uk": "Прекрасні звуки природи для сну та розслаблення.",
-    "en": "Beautiful nature sounds for sleeping and relaxing."
-  },
-    "image": "images/forest.jpg",
-    "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1,
-    "name_color": "#a5d6a7",
-    "description_color": "#81c784",
-    "sizeMB_color": "#a5d6a7",
-    "progressbar_color": "#4caf50"
-  },
-  {
-    "id": "forest9",
-    "name": {
-    "uk": "Ліс",
-    "en": "Forest"
-  },
-  "description": {
-    "uk": "Прекрасні звуки природи для сну та розслаблення.",
-    "en": "Beautiful nature sounds for sleeping and relaxing."
-  },
-    "image": "images/forest.jpg",
-    "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1,
-    "name_color": "#a5d6a7",
-    "description_color": "#81c784",
-    "sizeMB_color": "#a5d6a7",
-    "progressbar_color": "#4caf50"
-  },
-  {
-    "id": "forest10",
-    "name": {
-    "uk": "Ліс",
-    "en": "Forest"
-  },
-  "description": {
-    "uk": "Прекрасні звуки природи для сну та розслаблення.",
-    "en": "Beautiful nature sounds for sleeping and relaxing."
-  },
-    "image": "images/forest.jpg",
-    "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1,
-    "name_color": "#a5d6a7",
-    "description_color": "#81c784",
-    "sizeMB_color": "#a5d6a7",
-    "progressbar_color": "#4caf50"
-  },
-  {
-    "id": "forest11",
-    "name": {
-    "uk": "Ліс",
-    "en": "Forest"
-  },
-  "description": {
-    "uk": "Прекрасні звуки природи для сну та розслаблення.",
-    "en": "Beautiful nature sounds for sleeping and relaxing."
-  },
-    "image": "images/forest.jpg",
-    "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1,
-    "name_color": "#a5d6a7",
-    "description_color": "#81c784",
-    "sizeMB_color": "#a5d6a7",
-    "progressbar_color": "#4caf50"
-  },
-  {
-    "id": "forest12",
-    "name": {
-    "uk": "Ліс",
-    "en": "Forest"
-  },
-  "description": {
-    "uk": "Прекрасні звуки природи для сну та розслаблення.",
-    "en": "Beautiful nature sounds for sleeping and relaxing."
-  },
-    "image": "images/forest.jpg",
-    "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1,
-    "name_color": "#a5d6a7",
-    "description_color": "#81c784",
-    "sizeMB_color": "#a5d6a7",
-    "progressbar_color": "#4caf50"
-  },
-  {
-    "id": "forest13",
-    "name": {
-    "uk": "Ліс",
-    "en": "Forest"
-  },
-  "description": {
-    "uk": "Прекрасні звуки природи для сну та розслаблення.",
-    "en": "Beautiful nature sounds for sleeping and relaxing."
-  },
-    "image": "images/forest.jpg",
-    "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1,
-    "name_color": "#a5d6a7",
-    "description_color": "#81c784",
-    "sizeMB_color": "#a5d6a7",
-    "progressbar_color": "#4caf50"
-  },
-  {
-    "id": "forest14",
-    "name": {
-    "uk": "Ліс",
-    "en": "Forest"
-  },
-  "description": {
-    "uk": "Прекрасні звуки природи для сну та розслаблення.",
-    "en": "Beautiful nature sounds for sleeping and relaxing."
-  },
-    "image": "images/forest.jpg",
-    "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1,
-    "name_color": "#a5d6a7",
-    "description_color": "#81c784",
-    "sizeMB_color": "#a5d6a7",
-    "progressbar_color": "#4caf50"
+    "name_color": "#c7ced6",
+    "description_color": "#c7ced6",
+    "sizeMB_color": "#c7ced6",
+    "progressbar_color": "#929ca6"
   }
 ]
