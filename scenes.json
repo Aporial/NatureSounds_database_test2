@@ -10,7 +10,7 @@
       "en": "Peaceful sounds of trees, birds, and wind in a dense forest."
     },
     "image": "images/forest.png",
-    "file": "audio/forest_birds.mp3",
+    "file": "https://cdn.jsdelivr.net/gh/Aporial/NatureSounds_database@main/audio/forest_birds.mp3",
     "sizeMB": 92.1,
     "name_color": "#c8c46d",
     "description_color": "#c8c46d",
