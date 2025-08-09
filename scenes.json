@@ -12,7 +12,8 @@
     "image": "images/forest.png",
     "file": "https://cdn.jsdelivr.net/gh/Aporial/NatureSounds_database@main/audio/forest_birds.mp3",
     "mainColor": "#c8c46d",
-    "accentColor": "#5b6439"
+    "accentColor": "#5b6439",
+    "sizeMB": 91
   },
   {
     "id": "campfire",
@@ -27,7 +28,8 @@
     "image": "images/campfire.png",
     "file": "audio/forest_birds.mp3",
     "mainColor": "#f8d89b",
-    "accentColor": "#e15a46"
+    "accentColor": "#e15a46",
+    "sizeMB": 91
   },
   {
     "id": "ocean",
@@ -42,7 +44,8 @@
     "image": "images/ocean.png",
     "file": "audio/forest_birds.mp3",
     "mainColor": "#c2dccf",
-    "accentColor": "#498ba1"
+    "accentColor": "#498ba1",
+    "sizeMB": 91
   },
   {
     "id": "rain",
@@ -57,6 +60,7 @@
     "image": "images/rain.png",
     "file": "audio/forest_birds.mp3",
     "mainColor": "#c7ced6",
-    "accentColor": "#929ca6"
+    "accentColor": "#929ca6",
+    "sizeMB": 91
   }
 ]
