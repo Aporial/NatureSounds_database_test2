@@ -11,11 +11,8 @@
     },
     "image": "images/forest.png",
     "file": "https://cdn.jsdelivr.net/gh/Aporial/NatureSounds_database@main/audio/forest_birds.mp3",
-    "sizeMB": 92.1,
-    "name_color": "#c8c46d",
-    "description_color": "#c8c46d",
-    "sizeMB_color": "#c8c46d",
-    "progressbar_color": "#5b6439"
+    "mainColor": "#c8c46d",
+    "accentColor": "#5b6439"
   },
   {
     "id": "campfire",
@@ -29,11 +26,8 @@
     },
     "image": "images/campfire.png",
     "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1,
-    "name_color": "#f8d89b",
-    "description_color": "#f8d89b",
-    "sizeMB_color": "#f8d89b",
-    "progressbar_color": "#e15a46"
+    "mainColor": "#f8d89b",
+    "accentColor": "#e15a46"
   },
   {
     "id": "ocean",
@@ -47,11 +41,8 @@
     },
     "image": "images/ocean.png",
     "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1,
-    "name_color": "#c2dccf",
-    "description_color": "#c2dccf",
-    "sizeMB_color": "#c2dccf",
-    "progressbar_color": "#498ba1"
+    "mainColor": "#c2dccf",
+    "accentColor": "#498ba1"
   },
   {
     "id": "rain",
@@ -65,10 +56,7 @@
     },
     "image": "images/rain.png",
     "file": "audio/forest_birds.mp3",
-    "sizeMB": 92.1,
-    "name_color": "#c7ced6",
-    "description_color": "#c7ced6",
-    "sizeMB_color": "#c7ced6",
-    "progressbar_color": "#929ca6"
+    "mainColor": "#c7ced6",
+    "accentColor": "#929ca6"
   }
 ]
